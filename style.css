@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+.input-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+label{
+    font-size: 18px;
+}
+
+input{
+    margin-right: 10px;
+}
+
+#result{
+    text-align: center;
+    font-size:24px;
+    margin-top: 20px;
+}
+
+body{
+    background-color: aqua;
+}
